@@ -20,6 +20,14 @@ Horizontal nav thoughts:
 3. Principles: Design and strategy (user-centred and shipping to learn), content models.
 
 ### Module 2 
+#### Lesson 4 - How we work
+Product idea #1565 REST API Content Structure
+- What is the desired outcome? Up;date REST API calendar structure to match current content file versions used already.
+- What is the issue's priority level? High
+- What sub-teams will be included in the work for this issue? 
+- What are the scale, significance, and urgency for this issue? All users using the REST API Docs are impacted; the results of this project would be used frequently and its impact would be long-lasting; while not urgent now, at some point it'll become very urgent.
+
+### Module 2 
 #### Lesson 7 - Releases: context & overview
 Releases ad content overview:
 - Tier 1 release = Copilot for individuals
