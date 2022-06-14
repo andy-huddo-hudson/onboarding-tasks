@@ -9,4 +9,21 @@
 
 _Different tasks completed during self-learn time during onboarding._
 
+## Course A 
+### Module 2 
+#### Lesson 1 - Docs team philosophy
 
+##### But why?
+Horizontal nav thoughts: 
+1. The driver was to allow a user to pinpoint where they were within their journey using a horizontal nav design design.
+2. Data was used to firstly set a target of reducing the volume of Google exits by 30%. However, based on the volumetric data of docs being across 30 products and 800 articles, it was idemtified that the content was too expansive to fit into this design. 
+3. Principles: Design and strategy (user-centred and shipping to learn), content models.
+
+### Module 2 
+#### Lesson 7 - Releases: context & overview
+Releases ad content overview:
+- Tier 1 release = Copilot for individuals
+- Tier 2 release = Advisory database supports Malware advisories
+- Tier 3 release = Enabling presence in GHES
+- Tier 4 release = View screen and notebooks in GHES
+- Might need docs = Docs TBD
