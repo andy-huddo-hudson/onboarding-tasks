@@ -35,3 +35,10 @@ Releases ad content overview:
 - Tier 3 release = Enabling presence in GHES
 - Tier 4 release = View screen and notebooks in GHES
 - Might need docs = Docs TBD
+
+## Course B
+### Module 4
+#### Introduction to content principles
+It's esstential to have principles in content design as that underpins your whole content design solution and strategy at every level. Design and strategy is the thought process about how content serves the user and their needs; without this, there is nothing to hang the content off, or any inituitive, or thought out, workstream. The style guides and content models ensure a consistent experience for the user, with each writer providing a consistent approach towards their output.
+
+This is evident within docs by the groupings of similar-themes of content together, and the lack of duplication.
